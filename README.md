@@ -1,5 +1,8 @@
 # Kubernetes: SynergyChat
 
+> [!NOTE]
+> This repository contains my solutions for the [Learn Kubernetes](https://www.boot.dev/courses/learn-kubernetes) course from [Boot.dev](https://www.boot.dev). The SynergyChat application and its Docker images (`bootdotdev/synergychat-*`) are provided by Boot.dev; only the Kubernetes manifests were written by me.
+
 Kubernetes manifests written while working through the [Boot.dev "Learn Kubernetes"](https://www.boot.dev/courses/learn-kubernetes) course. They deploy **SynergyChat**, a small chat application made of several microservices, onto a local cluster (minikube) and exercise the core Kubernetes building blocks along the way.
 
 ## Architecture
